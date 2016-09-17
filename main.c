@@ -4,6 +4,8 @@
 #include "pile.h"
 #include "point.h"
 
+// Programme de test
+
 int main()
 {
     t_pile* mapile = NULL;
